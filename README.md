@@ -8,7 +8,18 @@
 - [配置](#配置)
 - [完成](#完成)
 ### 下载
+执行以下命令以安装my-blogs.
+`git clone https://github.com/momonorthy/my-blogs.git`
+删除自动克隆下的Origin：`git remote rm origin `
+打开github，新建一个仓库（名字不限制），就像这样：
+![](https://gitee.com/Lblog/my-blog/raw/master/_posts/1.bmp)
+勾选Init this repo with a README.
+![](https://gitee.com/Lblog/my-blog/raw/master/_posts/2.bmp)
+然后关联这个仓库.
+` git remote add origin <yoururl>.git`
+完成下载。
 ### 配置
+可以按照_config.yml的步骤自行配置。
 ### 完成
 
 预览图：
