@@ -1,0 +1,8 @@
+---
+layout:            post
+title:             "About Me"
+menutitle:         "About Me"
+category:          网站
+author:            Mily(Mailj)
+---
+hello，这里是13岁的Mily！我现在在新世纪学校，在读六年级。
