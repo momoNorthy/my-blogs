@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:            jekyllDecent
-subtitle:         Example Blog
-description:      This is the jekyllTheme example blog. It only exists to demonstrate how the theme looks and feels.
-keywords:         demo theme example github jekyll features
-language:         "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
+title:            Blogo de Mailj 
+subtitle:         Mily的博客
+description:      Saluaton!Mia nomo estas Mailj(Mily),Mi estas ĉino.
+keywords:         C++ Mily Esperanto
+language:         "zh-cn" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
-baseurl:          "/jekyllDecent" # the subpath of your site, e.g. /blog
+baseurl:          "/my-blogs" # the subpath of your site, e.g. /blog
 url:              "" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /blog/:categories/:title
 cover:            /assets/mountain-cover.jpg
